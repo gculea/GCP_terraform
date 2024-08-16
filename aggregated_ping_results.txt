@@ -1,0 +1,3 @@
+Ping from vm-0 to vm-1 succeeded
+Ping from vm-1 to vm-0 succeeded
+Ping from vm-2 to vm-1 succeeded
